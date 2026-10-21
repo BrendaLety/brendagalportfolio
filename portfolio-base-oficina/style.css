@@ -4,13 +4,13 @@
 
 :root {
   /* 🎨 quer mudar as cores do site? comece por aqui! */
-  --cor-fundo: #faf8f4;        /* cor do fundo principal */
+  --cor-fundo: #8CD6C4;        /* cor do fundo principal */
   --cor-texto: #272333;        /* cor da fonte principal */
-  --cor-destaque: #7959ae;     /* cor de títulos, detalhes e botões */
+  --cor-destaque: #8c68c7;     /* cor de títulos, detalhes e botões */
   --cor-destaque-clara: #ece5fa; /* cor dos elementos delicados */
-  --cor-cartao: #ffffff;       /* cor dos cards */
-  --cor-linha: #ddd5e4;        /* cor de bordas e linhas */
-  --cor-suave: #6e6876;        /* cor de textos menores */
+  --cor-cartao: #e6b7d2;       /* cor dos cards */
+  --cor-linha: #615e63;        /* cor de bordas e linhas */
+  --cor-suave: #37333b;        /* cor de textos menores */
 }
 
 /* quer testar outra fonte? altere o nome depois de font-family. */
